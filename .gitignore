@@ -1,0 +1,8 @@
+*.sketch
+*.fig
+*.xd
+
+.DS_Store
+.prettierignore
+
+3-column-preview-card-component-main/
